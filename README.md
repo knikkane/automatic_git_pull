@@ -1,2 +1,2 @@
-# automatic_git_pul
+# automatic_git_pull
 Script to keep local git copy up-to-date
